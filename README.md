@@ -1,2 +1,2 @@
 # Prep-course-henry
-este es un repositorio de prueba del modulo 2 del prepcourse de henry.
+este es un repositorio de prueba de como crear commits y clonar reposirorios a mi computadora local.
